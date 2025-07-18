@@ -1,3 +1,7 @@
+
+BASED ON
+https://github.com/n8n-io/n8n-hosting/tree/main/docker-compose/withPostgres
+
 # n8n with PostgreSQL
 
 Starts n8n with PostgreSQL as database.
